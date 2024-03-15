@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository
-author : mehak sharma
+author : mehak sharma girraj
